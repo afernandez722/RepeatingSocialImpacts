@@ -7,8 +7,8 @@ Course name is Computer science A. This course is a elective program implented a
 Students will relate the programs used in the course to compare to real life and how these programs impact society.
 
 ### Learning Activities
-Week 1-3 Learning about Scratch[title](https://scratch.mit.edu)
-Week 4-6 Tinkercad Circuits[title](https://www.tinkercad.com/things/fFl30RMLP3m-fantabulous-habbi-borwo/editel?tenant=circuits)
+Week 1-3 Learning about [Scratch](https://scratch.mit.edu)
+Week 4-6 [Tinkercad Circuits](https://www.tinkercad.com/things/fFl30RMLP3m-fantabulous-habbi-borwo/editel?tenant=circuits)
 
 Week 7-9 Arduino
 Week 10 Python 
